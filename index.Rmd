@@ -1,9 +1,27 @@
 --- 
-title: "Encuestas complejas"
-author: "YOUR NAME HERE"
+title:  Muestreo para Encuestas de Hogares mediante el software R
+author: "Subdepartamento de Investigación Estadística"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
+cover-image: "Imagenes/Logo_INE2.png"
+favicon: "Imagenes/Logo_INE2.png"
+output: bookdown::gitbook
+documentclass: book
+bibliography: [references.bib, packages.bib]
+cls: apa.cls
+link-citations: yes
+urlcolor: blue
+github-repo: sdcchile/tallersdc/
+description: "Este es un documento central para el trabajo de Muestreo de hogares en el Instituto Nacional de Estadísticas de Chile."
+url: 'https://www.ine.gob.cl/'
+apple-touch-icon: "Imagenes/Logo_INE2.png"
+apple-touch-icon-size: 120
 ---
 
-# Down the rabbit-hole
+
+
+
+# Prefacio
+
+Para asegurar la calidad en la recolección y análisis de datos en hogares, es fundamental una cuidadosa planificación basada en métodos estadísticos de muestreo probabilístico. Estos datos son fundamentales para monitorear indicadores sociales clave y comprender problemáticas propias de nuestro país. Este curso se enfoca en el planeamiento estadístico y muestreo probabilístico, dirigido al personal técnico del INE-Chile. Aborda tanto aspectos teóricos como desafíos prácticos, capacitando a los participantes en habilidades analíticas para investigaciones sociales que involucren mediciones en hogares.
 

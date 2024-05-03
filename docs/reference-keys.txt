@@ -1,0 +1,10 @@
+prefacio
+introducción-al-diseño-de-encuestas-de-hogares
+qué-son-las-muestras-probabilísticas
+qué-entendemos-por-muestreo-con-probabilidades-simples
+que-entendemos-por-muestreo-con-probabilidades-proporcionales
+qué-es-el-muestreo-estratificado
+qué-es-el-muestreo-en-varias-etapas
+algunas-estrategias-transversales-en-encuestas-de-hogares
+cómo-hacer-el-cálculo-del-tamaño-de-muestra
+listado-de-fuentes-consultadas-y-citadas-en-el-texto

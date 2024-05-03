@@ -1,0 +1,3 @@
+# Introducción al diseño de encuestas de hogares
+
+Para asegurar la calidad en la recolección y análisis de datos en hogares, es fundamental una cuidadosa planificación basada en métodos estadísticos de muestreo probabilístico. Estos datos son fundamentales para monitorear indicadores sociales clave y comprender problemáticas propias de nuestro país. Este curso se enfoca en el planeamiento estadístico y muestreo probabilístico, dirigido al personal técnico del INE-Chile. Aborda tanto aspectos teóricos como desafíos prácticos, capacitando a los participantes en habilidades analíticas para investigaciones sociales que involucren mediciones en hogares.
